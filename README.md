@@ -36,7 +36,7 @@
 
 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+## Tabla de Contenidos
 
 * [🚀 Environment setup](#-environment-setup)
   * [🐳 Needed tools](#-needed-tools)
